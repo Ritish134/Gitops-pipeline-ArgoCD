@@ -1,5 +1,7 @@
 # GitOps Pipeline with Argo CD and Argo Rollouts
 
+![image](https://github.com/Ritish134/Gitops-pipeline-ArgoCD/assets/121374890/4f1266ec-2afe-4199-9546-3e8bc45d1730)
+
 ## Overview
 
 This repo demonstrates setting up a GitOps pipeline using Argo CD for continuous deployment and Argo Rollouts for advanced deployment strategies within a Kubernetes environment. This automates the deployment and management of a simple web application.
